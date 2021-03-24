@@ -71,7 +71,7 @@ $(document).ready(function(){
 });
 
 function handleFormSubmit(e){
-  if(flag1 == true& flag2 == true && flag3 ==true){
+  if(flag1 == true && flag2 == true && flag3 ==true){
   
     alert("Form Submitted");
 
